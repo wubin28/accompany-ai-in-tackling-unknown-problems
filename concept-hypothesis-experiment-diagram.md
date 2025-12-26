@@ -7,7 +7,7 @@ flowchart TD
 
     Q1 -->|是| Q2{Q2: 这是否是简单问题？<br/>单一主要因素、<br/>因果关系明确}
 
-    Q2 -->|是| RABPOC[使用 RABPOC 风格提示词<br/>让 AI 直接解决<br/><br/>Role - Audience - Behavior<br/>Purpose - Output - Concern<br/><br/>伍斌的《氛围编程》泡泡书第7章]
+    Q2 -->|是| RABPOC[使用 RABPOC 风格提示词<br/>让 AI 直接解决<br/><br/>Role - Audience - Behavior<br/>Purpose - Output - Concern<br/><br/>伍斌的《氛围编程》泡泡书第7章<br/><br/>gitee.com/wubin28/pause-and-clarify-prompts]
 
     RABPOC --> Q3{Q3: AI 生成的<br/>内容是否满意？}
 
