@@ -32,5 +32,5 @@
 
 ## 策略图
 
-详细的策略图请参见 [concept-hypothesis-experiment-diagram.md](./concept-hypothesis-experiment-diagram.md)。
+![concept-hypothesis-experiment-diagram.png](concept-hypothesis-experiment-diagram.png)
 
